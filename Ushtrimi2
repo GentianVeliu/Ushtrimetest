@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+            <meta charset="utf-8"
+        <title>Krijimi i nje CRM</title>
+    </head>
+    
+    <body>
+        <h1>Krijimi i nj&euml; CRM-i</h1>
+        <nav>
+            <div id="mainMenu">
+            </div>
+            <ul>
+                <li><a href="#">Home</li>
+                <li><a href="#">Catalog</li>
+                <li><a href="#">Inventor</li>
+                
+            </ul>
+        </nav>
+        <h2>Kontakti</h2>
+        <div id="secondaryMenu"
+             <h3>CRM im personal</h3>
+            <ul>
+                <li><a href="#">Kontakti</a>
+                <ol>
+                    <li>Drejtori</li>
+                    <li>Zv.Drejtori</li>
+                    <li>Sekretari</li>
+                </ol>
+                </li>
+                     <li><a href="#">Orders</a></li>
+		  <li><a href="#">Porosite</a></li>
+		  <li><a href="#">Kalendari</a></li>
+		  <li><a href="#">Detyrat</a></li>
+                  <li><a href="#">Dokumenti</a></li>
+                
+        </div>
+                
+                    <div id="mainContact">
+            <h3>Majlinda Jaha</h3>
+            <p>
+                Address: st. Ceta e Llapit nr.52 <br />
+                City: Podujeve <br />
+                Country: Kosova <br>
+                Postal: 41000 <br />
+                Phone: +38349000000<br />
+                Email: <a href="mailto:majlindajaha@hotmail.com">majlindajaha@hotmal.com</a>
+            </p>
+                
+           
+        </div>
+        <div id="actions">
+            
+            <img src="images/photo2.jpg" title="edit image"/>
+                <img src="images/photo2.jpg" title="edit image"/>
+                <img src="images/photo2.jpg" title="edit image"/>
+                <img src="images/photo2.jpg" title="edit image"/>
+                <img src="images/photo2.jpg" title="edit image"/>
+            
+        </div>
+        <figure>
+        <img src="foto/photo.jpg" title="map" alt="map photo"/><br />
+            <figcaption>Harta e zyres</figcaption>
+        </figure>
+        </div>
+        
+        <div id="lastViewed">
+            <h3>Kontaktet e fundit</h3>
+            <p><a href="#">Znj.Camellie Bernard</a><br />University of Bordeaux</p>
+            
+        </div>
+        <footer>
+           
+            <p><small><a href="#">Home</a> | <a href="#">Catalog</a> | <a href="#">Inventory</a></small></p>
+            <p><em>Te drejtat e rezervuara &COPY; FIEK 2018</em></p>
+        </footer>
+    </body>
+</html>
